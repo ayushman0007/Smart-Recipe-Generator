@@ -1,0 +1,13 @@
+motor~=3.7.1
+fastapi~=0.118.2
+pydantic~=2.12.1
+cloudinary~=1.44.1
+python-dotenv~=1.1.1
+pydantic-settings~=2.11.0
+pymongo~=4.15.3
+protobuf~=5.29.3
+pillow~=11.3.0
+requests~=2.32.5
+urllib3~=2.5.0
+pandas~=2.3.3
+tqdm~=4.67.1
