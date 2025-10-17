@@ -29,8 +29,8 @@ Follow the steps below to set up and run the project:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SmartRecipeGenerator.git
-cd SmartRecipeGenerator
+git clone https://github.com/yourusername/Smart-Recipe-Generator.git
+cd Smart-Recipe-Generator
 ```
 ### 2️⃣ Create and Activate Virtual Environment
 # Create virtual environment
